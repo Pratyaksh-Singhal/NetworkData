@@ -1,0 +1,5 @@
+.venv
+newenv
+logs
+Network_Security.egg-info
+.env

@@ -2,4 +2,5 @@
 newenv
 logs
 Network_Security.egg-info
+Artifacts
 .env

@@ -1,6 +1,8 @@
 import os
 import sys
 import mlflow
+import dagshub
+dagshub.init(repo_owner='Pratyaksh-Singhal', repo_name='NetworkData', mlflow=True)
 
 from networksecurity.exception.exception import NetworkSecurityException 
 from networksecurity.logging.logger import logging
